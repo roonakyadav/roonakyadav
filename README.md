@@ -10,6 +10,10 @@
 
 </div>
 
+## 📊 Detailed GitHub Dashboard
+
+![Metrics](https://github.com/roonakyadav/roonakyadav/blob/main/github-metrics.svg)
+
 ---
 
 ## 🌐 Connect With Me
