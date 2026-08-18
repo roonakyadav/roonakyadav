@@ -18,7 +18,7 @@ Building web applications, developer tools, browser extensions, and experiments 
 
 I'm an engineering student focused on building software and improving my fundamentals through real projects.
 
-Currently working with **Java, JavaScript, TypeScript, Python, React, Next.js, Node.js, Express, MongoDB, MySQL, Supabase, and modern web tooling.**
+Currently working with **Java, Python, JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, MySQL, Supabase, and modern web tooling.**
 
 Interested in **full-stack development, browser extensions, developer tools, automation, and practical AI-powered software.**
 
@@ -28,39 +28,33 @@ Interested in **full-stack development, browser extensions, developer tools, aut
 
 ### Languages
 
-<div>
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,bash&perline=10" />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,bash" />
+</p>
 
 ### Frontend
 
-<div>
-<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,expo,html,css,tailwindcss,gsap,vite&perline=10" />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
+</p>
 
 ### Backend
 
-<div>
-<img src="https://skillicons.dev/icons?i=nodejs,express&perline=10" />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### Databases & Backend Services
 
-<div>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,convex&perline=10" />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
+</p>
 
 ### Tools & Platforms
 
-<div>
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vercel&perline=10" />
-</div>
-
-### Other
-
-<div>
-<img src="https://skillicons.dev/icons?i=chrome,n8n&perline=10" />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vercel" />
+</p>
 
 ---
 
@@ -80,7 +74,7 @@ Small tools focused on making development, studying, and repetitive workflows fa
 
 ### AI-Powered Software
 
-Building practical applications that integrate AI into existing products and workflows.
+Practical applications that integrate AI into existing products and workflows.
 
 ---
 
@@ -88,14 +82,14 @@ Building practical applications that integrate AI into existing products and wor
 
 <div align="center">
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roonakyadav\&theme=github_dark)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roonakyadav&theme=github_dark" />
 
-<br>
+<br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roonakyadav&theme=github_dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=roonakyadav&theme=github_dark" />
 
-<br>
+<br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=roonakyadav&theme=github_dark" />
 
