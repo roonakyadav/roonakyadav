@@ -14,16 +14,6 @@ Building web applications, developer tools, browser extensions, and experiments 
 
 ---
 
-## About
-
-I'm an engineering student focused on building software and improving my fundamentals through real projects.
-
-Currently working with **Java, Python, JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, MySQL, Supabase, and modern web tooling.**
-
-Interested in **full-stack development, browser extensions, developer tools, automation, and practical AI-powered software.**
-
----
-
 ## Tech Stack
 
 ### Languages
