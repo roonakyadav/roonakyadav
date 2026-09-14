@@ -1,5 +1,3 @@
-# Ronak
-
 I build software that has to keep working after the demo.
 
 Computer Science @ Scaler School of Technology
