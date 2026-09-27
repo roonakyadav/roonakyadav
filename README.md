@@ -14,7 +14,7 @@ My work sits around:
 **[Axonel](https://github.com/axonel/axonel)**  
 A Rust-based agent and workflow runtime built around durable state, scheduling, leases, idempotency, reconciliation, and independent verification.
 
-**[OpenEnv](https://github.com/roonakyadav/openenv)**  
+**[RootTrace](https://github.com/roonakyadav/RootTrace)**  
 An AI incident-response environment for testing agents against misleading signals, cascading failures, dynamic degradation, and reward-hacking.
 
 **[ChatGPT Nexus](https://github.com/roonakyadav/chatgpt-nexus)**  
