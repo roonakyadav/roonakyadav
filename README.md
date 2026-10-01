@@ -11,7 +11,7 @@ My work sits around:
 
 ## Selected work
 
-**[Axonel](https://github.com/axonel/axonel)**  
+**[Sentinel](https://github.com/axonel/sentinel)**  
 A Rust-based agent and workflow runtime built around durable state, scheduling, leases, idempotency, reconciliation, and independent verification.
 
 **[RootTrace](https://github.com/roonakyadav/RootTrace)**  
