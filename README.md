@@ -23,7 +23,7 @@ A local browser extension that turns ChatGPT into a more capable workspace with 
 ## Open source
 
 I am currently contributing upstream to
-[Heym](https://github.com/heymrun/heym),
+[Heym](https://github.com/heymrun/heym), [Laptap](https://github.com/axonel/laptap), 
 
 Recent work has involved workflow execution semantics, message-queue reliability,
 compiler IR correctness, Linux desktop behavior, browser systems, and failure
