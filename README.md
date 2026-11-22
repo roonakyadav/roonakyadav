@@ -11,19 +11,22 @@ My work sits around:
 
 ## Selected work
 
+**[Concord](https://github.com/axonel/concord)**  
+A deterministic Rust environment-analysis engine that models project and host dependencies as constraint graphs, diagnosing runtime incompatibilities, missing services, port conflicts, and capability failures before execution.
+
 **[Sentinel](https://github.com/axonel/sentinel)**  
-A Rust-based agent and workflow runtime built around durable state, scheduling, leases, idempotency, reconciliation, and independent verification.
+A local control plane for coding agents: isolates execution in Git worktrees, independently verifies changes on disk, and pauses for human review before integration.
 
-**[RootTrace](https://github.com/roonakyadav/RootTrace)**  
-An AI incident-response environment for testing agents against misleading signals, cascading failures, dynamic degradation, and reward-hacking.
+**Knot** *(private repository)*  
+An Electron desktop workspace for project and session management, with Desktop Commander process control, remote connection verification, and sanitized diagnostic logs.
 
-**[ChatGPT Nexus](https://github.com/roonakyadav/chatgpt-nexus)**  
-A local browser extension that turns ChatGPT into a more capable workspace with timelines, folders, text pins, exports, and workflow-oriented tooling.
+**[Regnant](https://github.com/axonel/regnant)**  
+An Android control surface for Linux workstations, using authenticated local-network connectivity for Hyprland workspace control, system telemetry, project launching, and approved desktop operations.
 
 ## Open source
 
 I am currently contributing upstream to
-[Heym](https://github.com/heymrun/heym)
+[Heym](https://github.com/heymrun/heym).
 
 Recent work has involved workflow execution semantics, message-queue reliability,
 compiler IR correctness, Linux desktop behavior, browser systems, and failure
