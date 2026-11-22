@@ -17,7 +17,7 @@ A deterministic Rust environment-analysis engine that models project and host de
 **[Sentinel](https://github.com/axonel/sentinel)**  
 A local control plane for coding agents: isolates execution in Git worktrees, independently verifies changes on disk, and pauses for human review before integration.
 
-**Knot** *(private repository)*  
+**[Knot](https://github.com/axonel/knot)**  
 An Electron desktop workspace for project and session management, with Desktop Commander process control, remote connection verification, and sanitized diagnostic logs.
 
 **[Regnant](https://github.com/axonel/regnant)**  
